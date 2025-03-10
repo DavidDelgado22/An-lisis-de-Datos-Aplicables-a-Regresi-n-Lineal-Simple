@@ -1,0 +1,1 @@
+# An-lisis-de-Datos-Aplicables-a-Regresi-n-Lineal-Simple
